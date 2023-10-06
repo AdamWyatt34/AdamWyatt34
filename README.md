@@ -6,7 +6,7 @@ I am an .NET Backend-Engineer
 I’ve been programming for 5 years now. After taking an intro to programming course during my first bachelors degree I was hooked and had to get more. I started with Microsoft Access since that was the stack used at my company at the time. I’ve since been a constant learner of C#, .NET, and Node.  
 * 🌍  I'm based in Virginia 
 * ✉️  You can contact me at [adamrwyatt1@gmail.com](mailto:adamrwyatt1@gmail.com)
-* 🚀  I'm currently working on [Weekly Picks App](http://weeklypicks.azurewebsites.net/) 
+* 🚀  I'm currently working on [EmpowerWellness](A personal training and nutrition app) 
 * 🧠  I'm learning Node.JS and Express 
 * ⚡  I’m also a certified personal trainer, nutritionist, and corrective exercise specialist.
 
